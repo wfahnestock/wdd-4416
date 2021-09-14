@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #282c34;
+    color: #d9d9d9;
+    margin: 0;
+    padding: 0;
+}
+.makeStyles-root-1 {
+    margin-bottom: 10px;
+}
+.listContainer {
+    color: #000;
+}
