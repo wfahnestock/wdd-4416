@@ -34,7 +34,7 @@ const App = () => {
 
     return (
         <div className="app__wrapper">
-            <Chat client={client} theme="theme dark">
+            <Chat client={client} theme="theme light">
                 <ChannelListContainer
                     isCreating={isCreating}
                     setIsCreating={setIsCreating}
